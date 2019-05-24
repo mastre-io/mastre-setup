@@ -6,18 +6,19 @@ Thanks for trying out Mastre, down below you can see how to quickly install Mast
 
 # Mac Installation
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Windows Installation
 
 Please note Windows Defender will open up a prompt so before you can install the Mastre client you will need to do the following steps:
 
-![Branching](./images/WDSmartScreen01.png)
+1) Click on More Info on the screen that appears:
 
+![WD1](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/WDSmartScreen01.png)
+
+2) Click on Run anyway that appears at the bottom:
+
+[WD2](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/WDSmartScreen02.png)
 
 ## Header 2
 
