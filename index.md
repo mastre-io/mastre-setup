@@ -14,7 +14,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Windows Installation
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Please note Windows Defender will open up a prompt so before you can install the Mastre client you will need to do the following steps:
+
+![Branching](./images/WDSmartScreen01.png)
+
 
 ## Header 2
 
