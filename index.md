@@ -6,6 +6,9 @@ Thanks for trying out Mastre, down below you can see how to quickly install Mast
 
 # Mac Installation
 
+Once you have downloaded the Mastre.dmg file you will open it and install like any other program.
+
+![macsetup](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/setupdrag.png)
 
 
 # Windows Installation
@@ -23,6 +26,8 @@ After you have downloaded the install file which ends in a .exe you double click
 ![WD2](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/WDSmartScreen02.png)
 
 This will now allow the app to open, you can sign in, and begin using the app.
+
+![loginpage](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/mastrelogin.png)
 
 ```
 Features Coming Soon:
