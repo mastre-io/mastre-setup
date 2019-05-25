@@ -4,16 +4,19 @@ layout: default
 
 Thanks for trying out Mastre, down below you can see how to quickly install Mastre.
 
+##Download:
+[Mac](https://github.com/mastre-io/mastre-releases/releases/download/0.8.4/Mastre-0.8.4.dmg).
+[Windows](https://github.com/mastre-io/mastre-releases/releases/download/0.8.4/Mastre.Setup.0.8.5.exe).
+
 # Mac Installation
 
 Once you have downloaded the Mastre.dmg, you will open this file then you will see this prompt:
 ![dev](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/developer.png)
 In order to get this file to open, you will need to visit system preferences,
 ```
-### 
 1.  Click the apple icon on the top left on the menu bar
-1.  Select System Preferences
-1.  Click on Security & Privacy
+2.  Select System Preferences
+3.  Click on Security & Privacy
 ```
 Once you are in this page you will press the "Open Anyway" button.
 ![security](https://raw.githubusercontent.com/mastre-io/mastre-setup/master/assets/images/s&p.png)
