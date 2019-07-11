@@ -5,8 +5,8 @@ layout: default
 Thanks for trying out Mastre, down below you can see how to quickly install Mastre.
 
 ## Download:
-[Mac](https://github.com/mastre-io/mastre-releases/releases/download/0.8.6/Mastre-0.8.6.dmg) / 
-[Windows](https://github.com/mastre-io/mastre-releases/releases/download/0.8.6/Mastre.Setup.0.8.6.exe) 
+[Mac](https://github.com/mastre-io/mastre-releases/releases/download/0.8.7/Mastre-0.8.7.dmg) / 
+[Windows](https://github.com/mastre-io/mastre-releases/releases/download/0.8.7/Mastre.Setup.0.8.7.exe) 
 
 # Mac Installation
 
